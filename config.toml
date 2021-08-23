@@ -1,0 +1,11 @@
+baseURL = "https://sravaniandprasanna.wedding/"
+languageCode = "en-us"
+title = "Sravani and Prasanna's wedding"
+theme="comingsoon"
+
+[params]
+  template = "clean"
+  logo = "images/logo.png"
+  launch_date = "2021-12-11T01:17:00Z"
+  phone = "+91 8985995161"
+  mail = "prassu158@gmail.com"

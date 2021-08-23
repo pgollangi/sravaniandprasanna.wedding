@@ -1,0 +1,3 @@
+[submodule "themes/comingsoon"]
+	path = themes/comingsoon
+	url = https://github.com/andresmazzo/gohugo-theme-comingsoon.git

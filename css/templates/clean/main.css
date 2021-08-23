@@ -1,0 +1,49 @@
+
+/* --- Main Global Overrides --- */
+main {
+  text-align: center;
+}
+
+
+/* --- Components Overrides | Countdown --- */
+.countdown-timer {
+  margin-bottom: 3.5rem;
+}
+.countdown-timer .timebox-container  {
+  text-align: center;
+  padding: 1rem 3.5rem;
+  border-right: 1px solid rgba(255,255,255, 0.2);
+}
+.countdown-timer .timebox-container:last-child  {
+  border: none;
+}
+
+.countdown-timer .timebox-container .timebox-number {
+  font-size: 4.5rem;
+}
+.countdown-timer .timebox-container .timebox-unit {
+  padding: 1rem 0;
+}
+
+/* --- Components Overrides | Subscription --- */
+.subscription-container {
+  margin: 1rem 0 2rem;
+}
+
+.subscription-container input {
+  border: 1px solid rgba(255,255,255, 0.5);
+  color: #fff;
+}
+.subscription-container button {
+  border: none;
+  color: #fff;
+}
+
+/* --- Custom styles --- */
+.subtitle {
+  font-size: 1rem;
+  font-weight: normal;
+}
+.centered {
+  width: 80%;
+}

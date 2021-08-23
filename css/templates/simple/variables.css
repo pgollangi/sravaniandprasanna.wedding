@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+:root {
+  --text-color: #333;
+  --background-color: #eee;
+  --font-family: 'Work Sans', sans-serif;
+}

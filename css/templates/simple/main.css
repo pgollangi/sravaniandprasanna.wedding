@@ -1,0 +1,30 @@
+
+/* --- Main Global Overrides --- */
+main {
+  text-align: center;
+}
+
+/* --- Components Overrides | Countdown Timer --- */
+
+/* --- Custom styles --- */
+.logo {
+  display: flex;
+  margin: 2rem auto;
+  object-fit: contain;
+  height: 8rem;
+}
+
+.content {
+  padding: 1rem;
+  display: block;
+  min-height: 
+
+  opacity: 0.3;
+}
+
+#content {
+  position: relative;
+  top: 45%;
+  transform: translateY(-50%);
+  padding: 0 6rem; 
+}
